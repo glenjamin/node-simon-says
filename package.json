@@ -1,6 +1,6 @@
 {
   "name": "simon-says",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A basic DSL for async control flow in BDD-style tests",
   "main": "simon.js",
   "scripts": {
