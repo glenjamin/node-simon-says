@@ -1,0 +1,27 @@
+{
+  "name": "simon-says",
+  "version": "0.0.0",
+  "description": "A basic DSL for async control flow in BDD-style tests",
+  "main": "simon.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glenjamin/node-simon-says.git"
+  },
+  "keywords": [
+    "bdd",
+    "dsl",
+    "async",
+    "testing"
+  ],
+  "author": "Glen Mailer <glenjamin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glenjamin/node-simon-says/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
+}
