@@ -3,6 +3,7 @@ node-simon-says
 
 A basic DSL for async control flow in BDD-style tests
 
+[![build status](https://secure.travis-ci.org/glenjamin/node-simon-says.png)](http://travis-ci.org/glenjamin/node-simon-says)
 
 Install
 -------
